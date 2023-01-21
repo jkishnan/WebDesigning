@@ -1,0 +1,51 @@
+html
+{
+    background-color:lightcyan;
+   
+}
+header{
+text-align: center;
+background-color: white;
+}
+
+.list li a{
+    color: black;
+    font-size: x-large;
+   
+    text-decoration: double;
+   
+}
+.list {
+   display: inline-block;
+   text-align: left;
+   }
+
+nav
+{
+
+text-align: center;
+
+    
+}
+h2{
+    text-align: center;
+background-color: white;
+font-size: x-large;
+}
+p{
+    font-size: x-large;
+}
+
+.section-inner .beach{
+    display: flex;
+    flex-direction: column;
+}
+.section-inner .beach > img{
+    height:    50%;
+    
+}
+
+
+
+
+
